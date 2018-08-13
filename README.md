@@ -5,3 +5,8 @@
 ### 获取触摸的点的坐标，根据比例算出对应在图片上点击的区域
 ### 解析json文件,判断点击范围
 
+### Demo预览
+---
+
+![demo_gif](https://raw.githubusercontent.com/429329513wanting/touchareaseat/master/gif/demo.gif)
+
